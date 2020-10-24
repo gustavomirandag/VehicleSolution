@@ -6,5 +6,6 @@ namespace ConsoleApp.Models
 {
     public abstract class WaterVehicle : Vehicle
     {
+
     }
 }
